@@ -1,0 +1,27 @@
+LENGTH_1	{'percent_vowels': 46.14, 'percent_consonants': 53.86, 'words_count': 1476}
+LENGTH_10	{'percent_vowels': 40.64, 'percent_consonants': 59.36, 'words_count': 2217}
+LENGTH_11	{'percent_vowels': 42.12, 'percent_consonants': 57.88, 'words_count': 1359}
+LENGTH_12	{'percent_vowels': 41.31, 'percent_consonants': 58.69, 'words_count': 1018}
+LENGTH_13	{'percent_vowels': 39.66, 'percent_consonants': 60.34, 'words_count': 636}
+LENGTH_14	{'percent_vowels': 42.3, 'percent_consonants': 57.7, 'words_count': 293}
+LENGTH_15	{'percent_vowels': 43.57, 'percent_consonants': 56.43, 'words_count': 138}
+LENGTH_16	{'percent_vowels': 41.96, 'percent_consonants': 58.04, 'words_count': 84}
+LENGTH_17	{'percent_vowels': 41.39, 'percent_consonants': 58.61, 'words_count': 27}
+LENGTH_18	{'percent_vowels': 38.89, 'percent_consonants': 61.11, 'words_count': 10}
+LENGTH_19	{'percent_vowels': 38.95, 'percent_consonants': 61.05, 'words_count': 20}
+LENGTH_2	{'percent_vowels': 43.11, 'percent_consonants': 56.89, 'words_count': 2910}
+LENGTH_20	{'percent_vowels': 45.0, 'percent_consonants': 55.0, 'words_count': 3}
+LENGTH_21	{'percent_vowels': 35.71, 'percent_consonants': 64.29, 'words_count': 2}
+LENGTH_22	{'percent_vowels': 36.36, 'percent_consonants': 63.64, 'words_count': 2}
+LENGTH_23	{'percent_vowels': 39.13, 'percent_consonants': 60.87, 'words_count': 1}
+LENGTH_24	{'percent_vowels': 41.67, 'percent_consonants': 58.33, 'words_count': 2}
+LENGTH_25	{'percent_vowels': 40.0, 'percent_consonants': 60.0, 'words_count': 2}
+LENGTH_3	{'percent_vowels': 34.6, 'percent_consonants': 65.4, 'words_count': 2163}
+LENGTH_4	{'percent_vowels': 41.88, 'percent_consonants': 58.12, 'words_count': 1505}
+LENGTH_5	{'percent_vowels': 42.33, 'percent_consonants': 57.67, 'words_count': 2673}
+LENGTH_6	{'percent_vowels': 42.6, 'percent_consonants': 57.4, 'words_count': 2227}
+LENGTH_7	{'percent_vowels': 43.04, 'percent_consonants': 56.96, 'words_count': 2260}
+LENGTH_8	{'percent_vowels': 41.15, 'percent_consonants': 58.85, 'words_count': 2444}
+LENGTH_9	{'percent_vowels': 41.32, 'percent_consonants': 58.68, 'words_count': 2438}
+LONG_WORDS	15183
+TOTAL_WORDS	25910
